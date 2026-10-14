@@ -4,7 +4,7 @@
 ![Día](https://img.shields.io/badge/D%C3%ADa-1%20de%202-orange)
 ![MCCE](https://img.shields.io/badge/MCCE-Ministerio%20de%20Defensa-green)
 
-## 📖 Sobre el evento
+## Sobre el evento
 
 **Talent4Cyber 2026** es la tercera edición del primer **Attack & Defense Hackathon universitario nacional de ciberseguridad**, una iniciativa del **Ministerio de Defensa de España**, a través del **Mando Conjunto del Ciberespacio (MCCE)**, en colaboración con la **Universidad de Granada**, la **Universidad Politécnica de Cartagena** y **Trustlab**.
 
@@ -22,7 +22,7 @@ Más información: [https://talent4cyber.es/](https://talent4cyber.es/)
 
 ---
 
-## 🎯 Operación Estrecho Fantasma
+## Operación Estrecho Fantasma
 
 > *"03:31Z. Un buque a 361 nudos. Ningún barco del mundo hace eso. Pero ahí está, en las pantallas del control de tráfico marítimo de Algeciras. Rumbo 044. Doce millas náuticas en dos minutos. Sin eco de radar que lo acompañe y sin figurar en ningún registro de buques autorizados.*
 >
@@ -40,7 +40,7 @@ Un manifiesto cifrado, un portal con una puerta trasera, un ingeniero que subió
 
 ---
 
-## 📂 Retos resueltos (Día 1)
+## Retos resueltos (Día 1)
 
 | # | Reto | Categoría | Puntos | Flag / Solución |
 |---|------|-----------|--------|------------------|
@@ -59,7 +59,7 @@ Un manifiesto cifrado, un portal con una puerta trasera, un ingeniero que subió
 
 ---
 
-## 🛠️ Metodología
+## Metodología
 
 Todo el análisis se realizó en **entorno controlado** y de forma **estática** siempre que fue posible:
 
@@ -73,7 +73,7 @@ Todo el análisis se realizó en **entorno controlado** y de forma **estática**
 
 ---
 
-## 📝 Notas
+## Notas
 
 - Este repositorio recoge los **apuntes y soluciones** del Día 1 de la hackathon.
 - El **Día 2** se centró en la parte de **decisión y respuesta** (AIS, firmware, comunicados, ROE).
@@ -82,7 +82,7 @@ Todo el análisis se realizó en **entorno controlado** y de forma **estática**
 
 ---
 
-## 👤 Autor
+## Autor
 
 **mnickh12**
 
@@ -90,7 +90,7 @@ Todo el análisis se realizó en **entorno controlado** y de forma **estática**
 
 ---
 
-## 📜 Licencia
+## Licencia
 
 Este proyecto es solo para **fines educativos**. Las flags y soluciones son parte de una competición pasada y no deben usarse para actividades ilegales.
 
