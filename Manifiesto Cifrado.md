@@ -1,4 +1,3 @@
-cat > "Manifiesto Cifrado.md" << 'EOF'
 # Manifiesto Cifrado — PIR-01
 
 ## 1. Contexto y pista falsa
@@ -95,4 +94,3 @@ El texto en claro era el **manifiesto de carga real**, donde se revelaba que el 
 - **El GCD es una herramienta potentísima** cuando dos módulos RSA comparten un primo.
 - **RSA-OAEP con SHA-1** sigue apareciendo en implementaciones legacy.
 - **El cifrado híbrido** (RSA + AES) es el estándar para proteger datos grandes.
-EOF
