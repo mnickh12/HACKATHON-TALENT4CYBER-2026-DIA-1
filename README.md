@@ -22,6 +22,19 @@ Más información: [https://talent4cyber.es/](https://talent4cyber.es/)
 
 ---
 
+## Datos del equipo
+
+| Campo | Valor |
+|-------|-------|
+| **Nombre del equipo** | Brigada Bardino |
+| **Universidad** | Universidad Europea de Madrid |
+| **Miembro** | marcos |
+| **Puntos completados (individual)** | 95 |
+| **Puntos totales del equipo** | 123 |
+| **Tiempo en completarlo** | 5h 56m 40s 96ms |
+
+---
+
 ## Operación Estrecho Fantasma
 
 > *"03:31Z. Un buque a 361 nudos. Ningún barco del mundo hace eso. Pero ahí está, en las pantallas del control de tráfico marítimo de Algeciras. Rumbo 044. Doce millas náuticas en dos minutos. Sin eco de radar que lo acompañe y sin figurar en ningún registro de buques autorizados.*
@@ -84,7 +97,7 @@ Todo el análisis se realizó en **entorno controlado** y de forma **estática**
 
 ## Autor
 
-**mnickh12**
+**marcos** (mnickh12)
 
 - GitHub: [@mnickh12](https://github.com/mnickh12)
 
