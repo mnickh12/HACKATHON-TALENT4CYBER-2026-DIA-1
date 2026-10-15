@@ -110,3 +110,18 @@ Este proyecto es solo para **fines educativos**. Las flags y soluciones son part
 ---
 
 > *"La ciberdefensa no se gana en solitario. En el mundo real, las operaciones de defensa y ataque requieren trabajo en equipo, coordinación y diversidad de habilidades."*
+
+
+---
+
+## Derechos de autor y propiedad intelectual
+
+Aunque los enunciados de la competición y el marco del evento sean de carácter público, **todos los apuntes, soluciones, análisis, explicaciones, comandos, scripts y desarrollos recogidos en este repositorio son de mi exclusiva autoría y propiedad intelectual**.
+
+Queda **prohibida la copia, reproducción, distribución, comunicación pública, transformación o reutilización total o parcial** de este contenido sin mi consentimiento expreso y por escrito.
+
+Este material se comparte **únicamente con fines educativos y de referencia personal**, no como recurso libre de copia. Cualquier uso distinto requerirá autorización expresa del autor.
+
+Para solicitar permiso, contactar a través de mi perfil de GitHub: [@mnickh12](https://github.com/mnickh12).
+
+© 2026 marcos (mnickh12). Todos los derechos reservados.
