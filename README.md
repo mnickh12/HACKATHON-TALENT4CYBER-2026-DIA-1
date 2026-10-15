@@ -91,7 +91,7 @@ Todo el análisis se realizó en **entorno controlado** y de forma **estática**
 - Este repositorio recoge los **apuntes y soluciones** del Día 1 de la hackathon.
 - El **Día 2** se centró en la parte de **decisión y respuesta** (AIS, firmware, comunicados, ROE).
 - No todo el material recibido era útil: parte estaba diseñado para **perder el tiempo**. Saber cuándo cerrar una línea de investigación también puntúa.
-- Los retos se resolvieron en equipo, pero este repositorio es una recopilación personal para estudio y referencia.
+- Este repositorio es una recopilación personal para estudio y referencia.
 
 ---
 
